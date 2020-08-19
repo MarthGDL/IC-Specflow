@@ -6134,11 +6134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DamartAlberto.DC\\Documents\\Industry Connect Shared Docs\\IC-TimeMaterialPage\\TurnsUp\\TurnsUp.csproj",
+      "projectUniqueName": "C:\\Users\\DamartAlberto.DC\\Documents\\Industry Connect Shared Docs\\IC-TurnsUp-BDD\\TurnsUp\\TurnsUp.csproj",
       "projectName": "TurnsUp",
-      "projectPath": "C:\\Users\\DamartAlberto.DC\\Documents\\Industry Connect Shared Docs\\IC-TimeMaterialPage\\TurnsUp\\TurnsUp.csproj",
+      "projectPath": "C:\\Users\\DamartAlberto.DC\\Documents\\Industry Connect Shared Docs\\IC-TurnsUp-BDD\\TurnsUp\\TurnsUp.csproj",
       "packagesPath": "C:\\Users\\DamartAlberto.DC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DamartAlberto.DC\\Documents\\Industry Connect Shared Docs\\IC-TimeMaterialPage\\TurnsUp\\obj\\",
+      "outputPath": "C:\\Users\\DamartAlberto.DC\\Documents\\Industry Connect Shared Docs\\IC-TurnsUp-BDD\\TurnsUp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DamartAlberto.DC\\AppData\\Roaming\\NuGet\\NuGet.Config",
